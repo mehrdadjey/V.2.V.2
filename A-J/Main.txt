@@ -1,3 +1,9 @@
+trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#Mehrdad%20Panel%20-%20Unlimited%20%E2%9C%85
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@188.114.97.6:443?path=%2Fudfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&fp=chrome&type=ws&allowInsecure=0&sni=octopusss5.info#Mehrdad%20Panel%20-%20Unlimited%20%E2%9C%85
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@188.114.97.6:443?path=%2Fudfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&fp=chrome&type=ws&allowInsecure=0&sni=octopusss5.info#Mehrdad%20Panel%20-%20Unlimited%20%E2%9C%85
+trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#Mehrdad%20Panel%20-%20Unlimited%20%E2%9C%85
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@www.speedtest.net:80?path=%2F%3Fed%3D3000&security=none&encryption=none&host=pon.antalmani.mm.am&type=ws#Mehrdad%20Panel%20-%20Unlimited%20%E2%9C%85
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@love.ns.cloudflare.com:80?path=%2F%3Fed%3D3000&security=none&encryption=none&host=pon.antalmani.mm.am&type=ws#Mehrdad%20Panel%20-%20Unlimited%20%E2%9C%85
 vless://0ab87f85-b6ea-4bd2-b039-7acf5d893d48@mkh.nexuslearn.site:80?path=%2Fnexus&security=none&encryption=none&host=x1.nexuslearn.site&type=ws#Mehrdad%20Panel%20-%20Unlimited%20%E2%9C%85
 vless://e277ac9b-3225-4381-a9fb-3585419f7142@love.ns.cloudflare.com:443?path=%2Fmedia05&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=media05.halalkhor.info&fp=chrome&type=ws&allowInsecure=0&sni=media05.halalkhor.info#Mehrdad%20Panel%20-%20Unlimited%20%E2%9C%85
 trojan://humanity@104.17.121.43:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Mehrdad%20Panel%20-%20Unlimited%20%E2%9C%85
